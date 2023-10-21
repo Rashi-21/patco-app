@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/patco-app/static/css/main.9195b28b.css",
+    "main.js": "/patco-app/static/js/main.60f2a692.js",
+    "static/media/about-background-image.jpg": "/patco-app/static/media/about-background-image.e7c783f64e6256740b9e.jpg",
+    "static/media/home-banner-image.jpg": "/patco-app/static/media/home-banner-image.34bb5b0a6ea487fad277.jpg",
+    "static/media/home-banner-background.png": "/patco-app/static/media/home-banner-background.585600da7ff85661555e.png",
+    "index.html": "/patco-app/index.html",
+    "main.9195b28b.css.map": "/patco-app/static/css/main.9195b28b.css.map",
+    "main.60f2a692.js.map": "/patco-app/static/js/main.60f2a692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9195b28b.css",
+    "static/js/main.60f2a692.js"
+  ]
+}
